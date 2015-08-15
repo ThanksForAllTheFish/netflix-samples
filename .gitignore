@@ -1,0 +1,15 @@
+target/
+.classpath
+.project
+.settings/
+build/
+.gradle
+gradle-app.setting
+*.h2.db
+generated/
+.externalToolBuilders/
+*.class
+tomcat-install/
+.metadata
+.cache
+.worksheet
